@@ -1,0 +1,23 @@
+Данные
+массивы, таблицы, графики
+
+Matplotlib библиотека для визуализации данных
+-графики функций
+-гистрограмма
+-диаграмма
+-простые картинки
+
+pip install matplotlib
+
+plt.plot()
+marker
+linestyle
+color
+label
+
+plt.legend()
+plt.show()
+
+plt.title("")
+plt.xlabel("")
+plt.ylabel("")
